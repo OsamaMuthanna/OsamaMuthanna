@@ -91,44 +91,28 @@ console.log("🚀 Every expert was once a beginner!");
 ---
 
 ## 🎨 Work Philosophy
-
 <div align="center">
-
 | Design 🎨 | Development 💻 | Creativity ✨ |
 |-----------|---------------|---------------|
 | User-Centered | Clean Code | Think Outside the Box |
 | Beautiful Simplicity | Efficient Solutions | Continuous Experimentation |
 | Visual Storytelling | Optimized Performance | Constant Evolution |
-
 </div>
-
 ---
-
 ## 📬 Connect With Me
-
 <div align="center">
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+966538253116)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Os2030a)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AgatvVrLS/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-muthanna-3aa9342b8)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/amasolissa0b23)
-
 </div>
-
 ---
-
 <div align="center">
-
 ### 💡 Fun Fact
 **Creativity is intelligence having fun!** 🧠✨
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="5%" />
-
 **Thanks for visiting my profile! Feel free to reach out for collaboration or just to say hi!** 👋
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=F7931E&label=PROFILE+VIEWS)
-
 </div>
