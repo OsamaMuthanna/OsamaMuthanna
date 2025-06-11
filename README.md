@@ -1,41 +1,51 @@
-<div align="center">
+<div dir="rtl" align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Hello!+I'm+Osama+Muthanna;Graphic+Designer+%26+Developer;Creating+Digital+Experiences;Welcome+to+my+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Hello!+I'm+Osama+Muthanna;Graphic+Designer;Data+Entry;Programmer;Creating+Digital+Experiences;Welcome+to+my+Profile!" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
+<div dir="rtl">
+
 ## 🎨 About Me
 
 Hello! I'm **Osama Muthanna**, a passionate graphic designer and aspiring developer on a journey to blend creativity with technology. I love creating meaningful digital experiences that combine beautiful design with functional code.
-
-> **"Design is not just what it looks like and feels like. Design is how it works."** - Steve Jobs
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Artist Palette" width="15%" />
 
 - 🎨 **Graphic Designer** with expertise in visual identity and creative content
 - 💻 **Beginner Developer** learning HTML and progressing toward other programming languages
 - 🌟 **Content Creator** sharing knowledge and inspiration with the community
 - 🚀 **Tech Enthusiast** passionate about merging design with development
 
+</div>
+
 ---
+
+<div dir="rtl">
 
 ## 🛠️ Tools & Technologies
 
 ### 🎨 Design Tools
+
+</div>
+
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-EE3D8F?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
+<div dir="rtl">
+
 ### 💻 Programming Languages & Technologies
+
+</div>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=gray)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=gray)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=gray)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <div align="center">
 <em>✅ Proficient &nbsp;&nbsp;&nbsp; 🔄 Currently Learning &nbsp;&nbsp;&nbsp; ⏳ Next in Pipeline</em>
@@ -43,7 +53,11 @@ Hello! I'm **Osama Muthanna**, a passionate graphic designer and aspiring develo
 
 ---
 
+<div dir="rtl">
+
 ## 🎯 Learning Journey
+
+</div>
 
 ```javascript
 const osamaLearningPath = {
@@ -66,7 +80,11 @@ console.log("🚀 Every expert was once a beginner!");
 
 ---
 
+<div dir="rtl">
+
 ## 📊 GitHub Stats
+
+</div>
 
 <div align="center">
 
@@ -79,7 +97,11 @@ console.log("🚀 Every expert was once a beginner!");
 
 ---
 
+<div dir="rtl">
+
 ## 🌟 Featured Projects
+
+</div>
 
 <div align="center">
 
@@ -90,29 +112,52 @@ console.log("🚀 Every expert was once a beginner!");
 
 ---
 
+<div dir="rtl">
+
 ## 🎨 Work Philosophy
+
+</div>
+
 <div align="center">
+
 | Design 🎨 | Development 💻 | Creativity ✨ |
 |-----------|---------------|---------------|
 | User-Centered | Clean Code | Think Outside the Box |
 | Beautiful Simplicity | Efficient Solutions | Continuous Experimentation |
 | Visual Storytelling | Optimized Performance | Constant Evolution |
+
 </div>
+
 ---
+
+<div dir="rtl">
+
 ## 📬 Connect With Me
+
+</div>
+
 <div align="center">
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+966538253116)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Os2030a)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AgatvVrLS/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-muthanna-3aa9342b8)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/amasolissa0b23)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/2030osm/)
+
 </div>
+
 ---
-<div align="center">
+
+<div dir="rtl" align="center">
+
 ### 💡 Fun Fact
 **Creativity is intelligence having fun!** 🧠✨
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="5%" />
+
 **Thanks for visiting my profile! Feel free to reach out for collaboration or just to say hi!** 👋
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=F7931E&label=PROFILE+VIEWS)
+
 </div>
